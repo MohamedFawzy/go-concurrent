@@ -5,7 +5,7 @@ language to achieve degree of parallelism
 for multiprocessor instated of single core execution such as other level languages e.g python 
 
 
-####### Run the following command
+- Run the following command
 `go run main.go http://localhost`
 
 
